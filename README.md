@@ -1,10 +1,13 @@
 # Logistics for Diagnostic Testing: an Adaptive Decision-support Framework
-Code and Data used in "Logistics for Diagnostic Testing: an AdaptiveDecision-support Framework"
+Data sources and code used in "Logistics for Diagnostic Testing: an AdaptiveDecision-support Framework"
 
-##Contents
+## Contents
 
-###data
+### data
 
 
-###procedure
+### procedure
 
+## Usage
+
+## License
