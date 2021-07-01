@@ -1,0 +1,1922 @@
+{
+    "0":{
+        "PLZ":"01665",
+        "LK":"LK Meißen",
+        "position":{
+            "lon":13.516666666,
+            "lat":51.216666666
+        },
+        "Bundesland":"Sachsen",
+        "LK ID":"14627",
+        "BDL ID":14,
+        "Cap":1921
+    },
+    "1":{
+        "PLZ":"02827",
+        "LK":"LK Görlitz",
+        "position":{
+            "lon":14.82,
+            "lat":51.28
+        },
+        "Bundesland":"Sachsen",
+        "LK ID":"14626",
+        "BDL ID":14,
+        "Cap":1921
+    },
+    "2":{
+        "PLZ":"07548",
+        "LK":"SK Gera",
+        "position":{
+            "lon":12.08242,
+            "lat":50.87818
+        },
+        "Bundesland":"Thüringen",
+        "LK ID":"16052",
+        "BDL ID":16,
+        "Cap":1921
+    },
+    "3":{
+        "PLZ":10829,
+        "LK":"SK Berlin Tempelhof-Schöneberg",
+        "position":{
+            "lon":13.383333333,
+            "lat":52.466666666
+        },
+        "Bundesland":"Berlin",
+        "LK ID":"11007",
+        "BDL ID":11,
+        "Cap":1921
+    },
+    "4":{
+        "PLZ":10829,
+        "LK":"SK Berlin Tempelhof-Schöneberg",
+        "position":{
+            "lon":13.383333333,
+            "lat":52.466666666
+        },
+        "Bundesland":"Berlin",
+        "LK ID":"11007",
+        "BDL ID":11,
+        "Cap":1921
+    },
+    "5":{
+        "PLZ":14197,
+        "LK":"SK Berlin Charlottenburg-Wilmersdorf",
+        "position":{
+            "lon":13.283333333,
+            "lat":52.5
+        },
+        "Bundesland":"Berlin",
+        "LK ID":"11004",
+        "BDL ID":11,
+        "Cap":1921
+    },
+    "6":{
+        "PLZ":15230,
+        "LK":"SK Frankfurt (Oder)",
+        "position":{
+            "lon":14.55,
+            "lat":52.35
+        },
+        "Bundesland":"Brandenburg",
+        "LK ID":"12053",
+        "BDL ID":12,
+        "Cap":1921
+    },
+    "7":{
+        "PLZ":18059,
+        "LK":"SK Rostock",
+        "position":{
+            "lon":12.133333333,
+            "lat":54.083333333
+        },
+        "Bundesland":"Mecklenburg-Vorpommern",
+        "LK ID":"13003",
+        "BDL ID":13,
+        "Cap":1921
+    },
+    "8":{
+        "PLZ":22453,
+        "LK":"SK Hamburg",
+        "position":{
+            "lon":10.0,
+            "lat":53.55
+        },
+        "Bundesland":"Hamburg",
+        "LK ID":"02000",
+        "BDL ID":2,
+        "Cap":1921
+    },
+    "9":{
+        "PLZ":26316,
+        "LK":"LK Friesland",
+        "position":{
+            "lon":8.0,
+            "lat":53.5
+        },
+        "Bundesland":"Niedersachsen",
+        "LK ID":"03455",
+        "BDL ID":3,
+        "Cap":1921
+    },
+    "10":{
+        "PLZ":30163,
+        "LK":"Region Hannover",
+        "position":{
+            "lon":9.72,
+            "lat":52.42
+        },
+        "Bundesland":"Niedersachsen",
+        "LK ID":"03241",
+        "BDL ID":3,
+        "Cap":1921
+    },
+    "11":{
+        "PLZ":30659,
+        "LK":"Region Hannover",
+        "position":{
+            "lon":9.72,
+            "lat":52.42
+        },
+        "Bundesland":"Niedersachsen",
+        "LK ID":"03241",
+        "BDL ID":3,
+        "Cap":1921
+    },
+    "12":{
+        "PLZ":35745,
+        "LK":"LK Lahn-Dill-Kreis",
+        "position":{
+            "lon":8.500138888,
+            "lat":50.560277777
+        },
+        "Bundesland":"Hessen",
+        "LK ID":"06532",
+        "BDL ID":6,
+        "Cap":1921
+    },
+    "13":{
+        "PLZ":40210,
+        "LK":"SK Düsseldorf",
+        "position":{
+            "lon":6.772380555,
+            "lat":51.231144444
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05111",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "14":{
+        "PLZ":40476,
+        "LK":"SK Düsseldorf",
+        "position":{
+            "lon":6.772380555,
+            "lat":51.231144444
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05111",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "15":{
+        "PLZ":44801,
+        "LK":"SK Bochum",
+        "position":{
+            "lon":7.216666666,
+            "lat":51.483333333
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05911",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "16":{
+        "PLZ":45138,
+        "LK":"SK Essen",
+        "position":{
+            "lon":7.013055555,
+            "lat":51.450833333
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05113",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "17":{
+        "PLZ":49076,
+        "LK":"LK Osnabrück",
+        "position":{
+            "lon":8.17,
+            "lat":52.33
+        },
+        "Bundesland":"Niedersachsen",
+        "LK ID":"03459",
+        "BDL ID":3,
+        "Cap":1921
+    },
+    "18":{
+        "PLZ":51143,
+        "LK":"SK Köln",
+        "position":{
+            "lon":6.957777777,
+            "lat":50.942222222
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05315",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "19":{
+        "PLZ":52062,
+        "LK":"StadtRegion Aachen",
+        "position":{
+            "lon":6.097,
+            "lat":50.7687
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05334",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "20":{
+        "PLZ":52146,
+        "LK":"StadtRegion Aachen",
+        "position":{
+            "lon":6.097,
+            "lat":50.7687
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05334",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "21":{
+        "PLZ":55129,
+        "LK":"LK Mainz-Bingen",
+        "position":{
+            "lon":8.08,
+            "lat":49.92
+        },
+        "Bundesland":"Rheinland-Pfalz",
+        "LK ID":"07339",
+        "BDL ID":7,
+        "Cap":1921
+    },
+    "22":{
+        "PLZ":57072,
+        "LK":"LK Siegen-Wittgenstein",
+        "position":{
+            "lon":8.17,
+            "lat":50.92
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05970",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "23":{
+        "PLZ":58644,
+        "LK":"LK Märkischer Kreis",
+        "position":{
+            "lon":7.614444444,
+            "lat":51.225
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05962",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "24":{
+        "PLZ":60327,
+        "LK":"SK Frankfurt am Main",
+        "position":{
+            "lon":8.679722222,
+            "lat":50.113611111
+        },
+        "Bundesland":"Hessen",
+        "LK ID":"06412",
+        "BDL ID":6,
+        "Cap":1921
+    },
+    "25":{
+        "PLZ":60528,
+        "LK":"SK Frankfurt am Main",
+        "position":{
+            "lon":8.679722222,
+            "lat":50.113611111
+        },
+        "Bundesland":"Hessen",
+        "LK ID":"06412",
+        "BDL ID":6,
+        "Cap":1921
+    },
+    "26":{
+        "PLZ":64283,
+        "LK":"SK Darmstadt",
+        "position":{
+            "lon":8.65,
+            "lat":49.866666666
+        },
+        "Bundesland":"Hessen",
+        "LK ID":"06411",
+        "BDL ID":6,
+        "Cap":1921
+    },
+    "27":{
+        "PLZ":66386,
+        "LK":"LK Saarpfalz-Kreis",
+        "position":{
+            "lon":7.25,
+            "lat":49.25
+        },
+        "Bundesland":"Saarland",
+        "LK ID":"10045",
+        "BDL ID":10,
+        "Cap":1921
+    },
+    "28":{
+        "PLZ":74072,
+        "LK":"LK Heilbronn",
+        "position":{
+            "lon":9.25,
+            "lat":49.16
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08125",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "29":{
+        "PLZ":76530,
+        "LK":"SK Baden-Baden",
+        "position":{
+            "lon":8.240833333,
+            "lat":48.761944444
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08211",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "30":{
+        "PLZ":82152,
+        "LK":"LK Starnberg",
+        "position":{
+            "lon":11.28,
+            "lat":48.01
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09188",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "31":{
+        "PLZ":85221,
+        "LK":"LK Dachau",
+        "position":{
+            "lon":11.42,
+            "lat":48.25
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09174",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "32":{
+        "PLZ":90429,
+        "LK":"LK Nürnberger Land",
+        "position":{
+            "lon":11.366666666,
+            "lat":49.5
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09574",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "33":{
+        "PLZ":90429,
+        "LK":"LK Nürnberger Land",
+        "position":{
+            "lon":11.366666666,
+            "lat":49.5
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09574",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "34":{
+        "PLZ":97080,
+        "LK":"SK Würzburg",
+        "position":{
+            "lon":9.929444444,
+            "lat":49.794444444
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09663",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "35":{
+        "PLZ":98617,
+        "LK":"LK Schmalkalden-Meiningen",
+        "position":{
+            "lon":10.42,
+            "lat":50.67
+        },
+        "Bundesland":"Thüringen",
+        "LK ID":"16066",
+        "BDL ID":16,
+        "Cap":1921
+    },
+    "36":{
+        "PLZ":99089,
+        "LK":"SK Erfurt",
+        "position":{
+            "lon":11.029166666,
+            "lat":50.978055555
+        },
+        "Bundesland":"Thüringen",
+        "LK ID":"16051",
+        "BDL ID":16,
+        "Cap":1921
+    },
+    "37":{
+        "PLZ":"01067",
+        "LK":"SK Dresden",
+        "position":{
+            "lon":13.738361111,
+            "lat":51.049258333
+        },
+        "Bundesland":"Sachsen",
+        "LK ID":"14612",
+        "BDL ID":14,
+        "Cap":1921
+    },
+    "38":{
+        "PLZ":"01127",
+        "LK":"SK Dresden",
+        "position":{
+            "lon":13.738361111,
+            "lat":51.049258333
+        },
+        "Bundesland":"Sachsen",
+        "LK ID":"14612",
+        "BDL ID":14,
+        "Cap":1921
+    },
+    "39":{
+        "PLZ":"01239",
+        "LK":"SK Dresden",
+        "position":{
+            "lon":13.738361111,
+            "lat":51.049258333
+        },
+        "Bundesland":"Sachsen",
+        "LK ID":"14612",
+        "BDL ID":14,
+        "Cap":1921
+    },
+    "40":{
+        "PLZ":"03050",
+        "LK":"SK Cottbus",
+        "position":{
+            "lon":14.334166666,
+            "lat":51.760555555
+        },
+        "Bundesland":"Brandenburg",
+        "LK ID":"12052",
+        "BDL ID":12,
+        "Cap":1921
+    },
+    "41":{
+        "PLZ":"04289",
+        "LK":"SK Leipzig",
+        "position":{
+            "lon":12.383333333,
+            "lat":51.333333333
+        },
+        "Bundesland":"Sachsen",
+        "LK ID":"14713",
+        "BDL ID":14,
+        "Cap":1921
+    },
+    "42":{
+        "PLZ":"04289",
+        "LK":"SK Leipzig",
+        "position":{
+            "lon":12.383333333,
+            "lat":51.333333333
+        },
+        "Bundesland":"Sachsen",
+        "LK ID":"14713",
+        "BDL ID":14,
+        "Cap":1921
+    },
+    "43":{
+        "PLZ":"04571",
+        "LK":"SK Leipzig",
+        "position":{
+            "lon":12.383333333,
+            "lat":51.333333333
+        },
+        "Bundesland":"Sachsen",
+        "LK ID":"14713",
+        "BDL ID":14,
+        "Cap":1921
+    },
+    "44":{
+        "PLZ":"04600",
+        "LK":"LK Altenburger Land",
+        "position":{
+            "lon":12.416666666,
+            "lat":51.0
+        },
+        "Bundesland":"Thüringen",
+        "LK ID":"16077",
+        "BDL ID":16,
+        "Cap":1921
+    },
+    "45":{
+        "PLZ":"06112",
+        "LK":"SK Halle",
+        "position":{
+            "lon":11.969722222,
+            "lat":51.482777777
+        },
+        "Bundesland":"Sachsen-Anhalt",
+        "LK ID":"15002",
+        "BDL ID":15,
+        "Cap":1921
+    },
+    "46":{
+        "PLZ":"06847",
+        "LK":"SK Dessau-Roßlau",
+        "position":{
+            "lon":12.233333,
+            "lat":51.833333
+        },
+        "Bundesland":"Sachsen-Anhalt",
+        "LK ID":"15001",
+        "BDL ID":15,
+        "Cap":1921
+    },
+    "47":{
+        "PLZ":"07743",
+        "LK":"SK Jena",
+        "position":{
+            "lon":11.586388888,
+            "lat":50.927222222
+        },
+        "Bundesland":"Thüringen",
+        "LK ID":"16053",
+        "BDL ID":16,
+        "Cap":1921
+    },
+    "48":{
+        "PLZ":"07745",
+        "LK":"SK Jena",
+        "position":{
+            "lon":11.586388888,
+            "lat":50.927222222
+        },
+        "Bundesland":"Thüringen",
+        "LK ID":"16053",
+        "BDL ID":16,
+        "Cap":1921
+    },
+    "49":{
+        "PLZ":"07745",
+        "LK":"SK Jena",
+        "position":{
+            "lon":11.586388888,
+            "lat":50.927222222
+        },
+        "Bundesland":"Thüringen",
+        "LK ID":"16053",
+        "BDL ID":16,
+        "Cap":1921
+    },
+    "50":{
+        "PLZ":"07973",
+        "LK":"LK Greiz",
+        "position":{
+            "lon":12.08,
+            "lat":50.75
+        },
+        "Bundesland":"Thüringen",
+        "LK ID":"16076",
+        "BDL ID":16,
+        "Cap":1921
+    },
+    "51":{
+        "PLZ":"08529",
+        "LK":"LK Vogtlandkreis",
+        "position":{
+            "lon":12.266666666,
+            "lat":50.433333333
+        },
+        "Bundesland":"Sachsen",
+        "LK ID":"14523",
+        "BDL ID":14,
+        "Cap":1921
+    },
+    "52":{
+        "PLZ":10627,
+        "LK":"SK Berlin Charlottenburg-Wilmersdorf",
+        "position":{
+            "lon":13.283333333,
+            "lat":52.5
+        },
+        "Bundesland":"Berlin",
+        "LK ID":"11004",
+        "BDL ID":11,
+        "Cap":1921
+    },
+    "53":{
+        "PLZ":10785,
+        "LK":"SK Berlin Mitte",
+        "position":{
+            "lon":13.366666666,
+            "lat":52.516666666
+        },
+        "Bundesland":"Berlin",
+        "LK ID":"11001",
+        "BDL ID":11,
+        "Cap":1921
+    },
+    "54":{
+        "PLZ":12247,
+        "LK":"SK Berlin Steglitz-Zehlendorf",
+        "position":{
+            "lon":13.25,
+            "lat":52.433333333
+        },
+        "Bundesland":"Berlin",
+        "LK ID":"11006",
+        "BDL ID":11,
+        "Cap":1921
+    },
+    "55":{
+        "PLZ":12489,
+        "LK":"SK Berlin Treptow-Köpenick",
+        "position":{
+            "lon":13.566666666,
+            "lat":52.45
+        },
+        "Bundesland":"Berlin",
+        "LK ID":"11009",
+        "BDL ID":11,
+        "Cap":1921
+    },
+    "56":{
+        "PLZ":13086,
+        "LK":"SK Berlin Pankow",
+        "position":{
+            "lon":13.4,
+            "lat":52.566666666
+        },
+        "Bundesland":"Berlin",
+        "LK ID":"11003",
+        "BDL ID":11,
+        "Cap":1921
+    },
+    "57":{
+        "PLZ":13347,
+        "LK":"SK Berlin Charlottenburg-Wilmersdorf",
+        "position":{
+            "lon":13.283333333,
+            "lat":52.5
+        },
+        "Bundesland":"Berlin",
+        "LK ID":"11004",
+        "BDL ID":11,
+        "Cap":1921
+    },
+    "58":{
+        "PLZ":13353,
+        "LK":"SK Berlin Charlottenburg-Wilmersdorf",
+        "position":{
+            "lon":13.283333333,
+            "lat":52.5
+        },
+        "Bundesland":"Berlin",
+        "LK ID":"11004",
+        "BDL ID":11,
+        "Cap":1921
+    },
+    "59":{
+        "PLZ":13407,
+        "LK":"SK Berlin Reinickendorf",
+        "position":{
+            "lon":13.333333333,
+            "lat":52.566666666
+        },
+        "Bundesland":"Berlin",
+        "LK ID":"11012",
+        "BDL ID":11,
+        "Cap":1921
+    },
+    "60":{
+        "PLZ":14165,
+        "LK":"LK Potsdam-Mittelmark",
+        "position":{
+            "lon":12.675,
+            "lat":52.21944
+        },
+        "Bundesland":"Brandenburg",
+        "LK ID":"12069",
+        "BDL ID":12,
+        "Cap":1921
+    },
+    "61":{
+        "PLZ":14467,
+        "LK":"SK Potsdam",
+        "position":{
+            "lon":13.066666666,
+            "lat":52.4
+        },
+        "Bundesland":"Brandenburg",
+        "LK ID":"12054",
+        "BDL ID":12,
+        "Cap":1921
+    },
+    "62":{
+        "PLZ":16761,
+        "LK":"LK Oberhavel",
+        "position":{
+            "lon":13.25,
+            "lat":52.883333333
+        },
+        "Bundesland":"Brandenburg",
+        "LK ID":"12065",
+        "BDL ID":12,
+        "Cap":1921
+    },
+    "63":{
+        "PLZ":16816,
+        "LK":"LK Ostprignitz-Ruppin",
+        "position":{
+            "lon":12.666666666,
+            "lat":52.966666666
+        },
+        "Bundesland":"Brandenburg",
+        "LK ID":"12068",
+        "BDL ID":12,
+        "Cap":1921
+    },
+    "64":{
+        "PLZ":17036,
+        "LK":"LK Mecklenburgische Seenplatte",
+        "position":{
+            "lon":12.98,
+            "lat":53.55
+        },
+        "Bundesland":"Mecklenburg-Vorpommern",
+        "LK ID":"13071",
+        "BDL ID":13,
+        "Cap":1921
+    },
+    "65":{
+        "PLZ":17493,
+        "LK":"LK Vorpommern-Greifswald",
+        "position":{
+            "lon":13.89,
+            "lat":53.76
+        },
+        "Bundesland":"Mecklenburg-Vorpommern",
+        "LK ID":"13075",
+        "BDL ID":13,
+        "Cap":1921
+    },
+    "66":{
+        "PLZ":18435,
+        "LK":"LK Vorpommern-Rügen",
+        "position":{
+            "lon":13.02,
+            "lat":54.25
+        },
+        "Bundesland":"Mecklenburg-Vorpommern",
+        "LK ID":"13073",
+        "BDL ID":13,
+        "Cap":1921
+    },
+    "67":{
+        "PLZ":19061,
+        "LK":"SK Schwerin",
+        "position":{
+            "lon":11.416666666,
+            "lat":53.633333333
+        },
+        "Bundesland":"Mecklenburg-Vorpommern",
+        "LK ID":"13004",
+        "BDL ID":13,
+        "Cap":1921
+    },
+    "68":{
+        "PLZ":20095,
+        "LK":"SK Hamburg",
+        "position":{
+            "lon":10.0,
+            "lat":53.55
+        },
+        "Bundesland":"Hamburg",
+        "LK ID":"02000",
+        "BDL ID":2,
+        "Cap":1921
+    },
+    "69":{
+        "PLZ":20095,
+        "LK":"SK Hamburg",
+        "position":{
+            "lon":10.0,
+            "lat":53.55
+        },
+        "Bundesland":"Hamburg",
+        "LK ID":"02000",
+        "BDL ID":2,
+        "Cap":1921
+    },
+    "70":{
+        "PLZ":21079,
+        "LK":"SK Hamburg",
+        "position":{
+            "lon":10.0,
+            "lat":53.55
+        },
+        "Bundesland":"Hamburg",
+        "LK ID":"02000",
+        "BDL ID":2,
+        "Cap":1921
+    },
+    "71":{
+        "PLZ":21502,
+        "LK":"LK Herzogtum Lauenburg",
+        "position":{
+            "lon":10.666666666,
+            "lat":53.583333333
+        },
+        "Bundesland":"Schleswig-Holstein",
+        "LK ID":"01053",
+        "BDL ID":1,
+        "Cap":1921
+    },
+    "72":{
+        "PLZ":22081,
+        "LK":"SK Hamburg",
+        "position":{
+            "lon":10.0,
+            "lat":53.55
+        },
+        "Bundesland":"Hamburg",
+        "LK ID":"02000",
+        "BDL ID":2,
+        "Cap":1921
+    },
+    "73":{
+        "PLZ":22083,
+        "LK":"SK Hamburg",
+        "position":{
+            "lon":10.0,
+            "lat":53.55
+        },
+        "Bundesland":"Hamburg",
+        "LK ID":"02000",
+        "BDL ID":2,
+        "Cap":1921
+    },
+    "74":{
+        "PLZ":22339,
+        "LK":"SK Hamburg",
+        "position":{
+            "lon":10.0,
+            "lat":53.55
+        },
+        "Bundesland":"Hamburg",
+        "LK ID":"02000",
+        "BDL ID":2,
+        "Cap":1921
+    },
+    "75":{
+        "PLZ":22763,
+        "LK":"SK Hamburg",
+        "position":{
+            "lon":10.0,
+            "lat":53.55
+        },
+        "Bundesland":"Hamburg",
+        "LK ID":"02000",
+        "BDL ID":2,
+        "Cap":1921
+    },
+    "76":{
+        "PLZ":22767,
+        "LK":"SK Hamburg",
+        "position":{
+            "lon":10.0,
+            "lat":53.55
+        },
+        "Bundesland":"Hamburg",
+        "LK ID":"02000",
+        "BDL ID":2,
+        "Cap":1921
+    },
+    "77":{
+        "PLZ":22769,
+        "LK":"SK Hamburg",
+        "position":{
+            "lon":10.0,
+            "lat":53.55
+        },
+        "Bundesland":"Hamburg",
+        "LK ID":"02000",
+        "BDL ID":2,
+        "Cap":1921
+    },
+    "78":{
+        "PLZ":23564,
+        "LK":"SK Lübeck",
+        "position":{
+            "lon":10.686388888,
+            "lat":53.869722222
+        },
+        "Bundesland":"Schleswig-Holstein",
+        "LK ID":"01003",
+        "BDL ID":1,
+        "Cap":1921
+    },
+    "79":{
+        "PLZ":24106,
+        "LK":"SK Kiel",
+        "position":{
+            "lon":10.139444444,
+            "lat":54.323333333
+        },
+        "Bundesland":"Schleswig-Holstein",
+        "LK ID":"01002",
+        "BDL ID":1,
+        "Cap":1921
+    },
+    "80":{
+        "PLZ":24113,
+        "LK":"SK Kiel",
+        "position":{
+            "lon":10.139444444,
+            "lat":54.323333333
+        },
+        "Bundesland":"Schleswig-Holstein",
+        "LK ID":"01002",
+        "BDL ID":1,
+        "Cap":1921
+    },
+    "81":{
+        "PLZ":24220,
+        "LK":"LK Schleswig-Flensburg",
+        "position":{
+            "lon":9.58,
+            "lat":54.67
+        },
+        "Bundesland":"Schleswig-Holstein",
+        "LK ID":"01059",
+        "BDL ID":1,
+        "Cap":1921
+    },
+    "82":{
+        "PLZ":26135,
+        "LK":"LK Oldenburg",
+        "position":{
+            "lon":8.42,
+            "lat":53.0
+        },
+        "Bundesland":"Niedersachsen",
+        "LK ID":"03458",
+        "BDL ID":3,
+        "Cap":1921
+    },
+    "83":{
+        "PLZ":28205,
+        "LK":"SK Bremen",
+        "position":{
+            "lon":8.808888888,
+            "lat":53.076944444
+        },
+        "Bundesland":"Bremen",
+        "LK ID":"04011",
+        "BDL ID":4,
+        "Cap":1921
+    },
+    "84":{
+        "PLZ":28357,
+        "LK":"SK Bremen",
+        "position":{
+            "lon":8.808888888,
+            "lat":53.076944444
+        },
+        "Bundesland":"Bremen",
+        "LK ID":"04011",
+        "BDL ID":4,
+        "Cap":1921
+    },
+    "85":{
+        "PLZ":30159,
+        "LK":"Region Hannover",
+        "position":{
+            "lon":9.72,
+            "lat":52.42
+        },
+        "Bundesland":"Niedersachsen",
+        "LK ID":"03241",
+        "BDL ID":3,
+        "Cap":1921
+    },
+    "86":{
+        "PLZ":30519,
+        "LK":"Region Hannover",
+        "position":{
+            "lon":9.72,
+            "lat":52.42
+        },
+        "Bundesland":"Niedersachsen",
+        "LK ID":"03241",
+        "BDL ID":3,
+        "Cap":1921
+    },
+    "87":{
+        "PLZ":31275,
+        "LK":"LK Hildesheim",
+        "position":{
+            "lon":9.92,
+            "lat":52.08
+        },
+        "Bundesland":"Niedersachsen",
+        "LK ID":"03254",
+        "BDL ID":3,
+        "Cap":1921
+    },
+    "88":{
+        "PLZ":31785,
+        "LK":"LK Hameln-Pyrmont",
+        "position":{
+            "lon":9.33,
+            "lat":52.08
+        },
+        "Bundesland":"Niedersachsen",
+        "LK ID":"03252",
+        "BDL ID":3,
+        "Cap":1921
+    },
+    "89":{
+        "PLZ":32105,
+        "LK":"LK Lippe",
+        "position":{
+            "lon":8.916666666,
+            "lat":52.0
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05766",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "90":{
+        "PLZ":33689,
+        "LK":"SK Bielefeld",
+        "position":{
+            "lon":8.533333333,
+            "lat":52.016666666
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05711",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "91":{
+        "PLZ":34119,
+        "LK":"LK Kassel",
+        "position":{
+            "lon":9.485902777,
+            "lat":51.311111111
+        },
+        "Bundesland":"Hessen",
+        "LK ID":"06633",
+        "BDL ID":6,
+        "Cap":1921
+    },
+    "92":{
+        "PLZ":34125,
+        "LK":"LK Kassel",
+        "position":{
+            "lon":9.485902777,
+            "lat":51.311111111
+        },
+        "Bundesland":"Hessen",
+        "LK ID":"06633",
+        "BDL ID":6,
+        "Cap":1921
+    },
+    "93":{
+        "PLZ":35396,
+        "LK":"LK Gießen",
+        "position":{
+            "lon":8.709027777,
+            "lat":50.574930555
+        },
+        "Bundesland":"Hessen",
+        "LK ID":"06531",
+        "BDL ID":6,
+        "Cap":1921
+    },
+    "94":{
+        "PLZ":37077,
+        "LK":"LK Göttingen",
+        "position":{
+            "lon":9.92,
+            "lat":51.5
+        },
+        "Bundesland":"Niedersachsen",
+        "LK ID":"03159",
+        "BDL ID":3,
+        "Cap":1921
+    },
+    "95":{
+        "PLZ":39124,
+        "LK":"SK Magdeburg",
+        "position":{
+            "lon":11.629166666,
+            "lat":52.127777777
+        },
+        "Bundesland":"Sachsen-Anhalt",
+        "LK ID":"15003",
+        "BDL ID":15,
+        "Cap":1921
+    },
+    "96":{
+        "PLZ":39576,
+        "LK":"LK Stendal",
+        "position":{
+            "lon":11.85,
+            "lat":52.683333333
+        },
+        "Bundesland":"Sachsen-Anhalt",
+        "LK ID":"15090",
+        "BDL ID":15,
+        "Cap":1921
+    },
+    "97":{
+        "PLZ":40477,
+        "LK":"SK Düsseldorf",
+        "position":{
+            "lon":6.772380555,
+            "lat":51.231144444
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05111",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "98":{
+        "PLZ":41169,
+        "LK":"SK Mönchengladbach",
+        "position":{
+            "lon":6.433333333,
+            "lat":51.2
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05116",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "99":{
+        "PLZ":44137,
+        "LK":"SK Dortmund",
+        "position":{
+            "lon":7.465277777,
+            "lat":51.513888888
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05913",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "100":{
+        "PLZ":44147,
+        "LK":"SK Dortmund",
+        "position":{
+            "lon":7.465277777,
+            "lat":51.513888888
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05913",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "101":{
+        "PLZ":44789,
+        "LK":"SK Bochum",
+        "position":{
+            "lon":7.216666666,
+            "lat":51.483333333
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05911",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "102":{
+        "PLZ":45326,
+        "LK":"SK Essen",
+        "position":{
+            "lon":7.013055555,
+            "lat":51.450833333
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05113",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "103":{
+        "PLZ":45659,
+        "LK":"LK Recklinghausen",
+        "position":{
+            "lon":7.17,
+            "lat":51.67
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05562",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "104":{
+        "PLZ":45879,
+        "LK":"SK Gelsenkirchen",
+        "position":{
+            "lon":7.1,
+            "lat":51.516666666
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05513",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "105":{
+        "PLZ":47441,
+        "LK":"LK Wesel",
+        "position":{
+            "lon":6.67,
+            "lat":51.67
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05170",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "106":{
+        "PLZ":48155,
+        "LK":"SK Münster",
+        "position":{
+            "lon":7.625555555,
+            "lat":51.9625
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05515",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "107":{
+        "PLZ":48465,
+        "LK":"LK Grafschaft Bentheim",
+        "position":{
+            "lon":7.08,
+            "lat":52.42
+        },
+        "Bundesland":"Niedersachsen",
+        "LK ID":"03456",
+        "BDL ID":3,
+        "Cap":1921
+    },
+    "108":{
+        "PLZ":49124,
+        "LK":"LK Osnabrück",
+        "position":{
+            "lon":8.17,
+            "lat":52.33
+        },
+        "Bundesland":"Niedersachsen",
+        "LK ID":"03459",
+        "BDL ID":3,
+        "Cap":1921
+    },
+    "109":{
+        "PLZ":50858,
+        "LK":"SK Köln",
+        "position":{
+            "lon":6.957777777,
+            "lat":50.942222222
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05315",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "110":{
+        "PLZ":50933,
+        "LK":"SK Köln",
+        "position":{
+            "lon":6.957777777,
+            "lat":50.942222222
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05315",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "111":{
+        "PLZ":51375,
+        "LK":"SK Leverkusen",
+        "position":{
+            "lon":6.983333333,
+            "lat":51.033333333
+        },
+        "Bundesland":"Nordrhein-Westfalen",
+        "LK ID":"05316",
+        "BDL ID":5,
+        "Cap":1921
+    },
+    "112":{
+        "PLZ":54290,
+        "LK":"SK Trier",
+        "position":{
+            "lon":6.641388888,
+            "lat":49.756666666
+        },
+        "Bundesland":"Rheinland-Pfalz",
+        "LK ID":"07211",
+        "BDL ID":7,
+        "Cap":1921
+    },
+    "113":{
+        "PLZ":55128,
+        "LK":"SK Mainz",
+        "position":{
+            "lon":8.266666666,
+            "lat":50.0
+        },
+        "Bundesland":"Rheinland-Pfalz",
+        "LK ID":"07315",
+        "BDL ID":7,
+        "Cap":1921
+    },
+    "114":{
+        "PLZ":55218,
+        "LK":"LK Mainz-Bingen",
+        "position":{
+            "lon":8.08,
+            "lat":49.92
+        },
+        "Bundesland":"Rheinland-Pfalz",
+        "LK ID":"07339",
+        "BDL ID":7,
+        "Cap":1921
+    },
+    "115":{
+        "PLZ":56068,
+        "LK":"LK Mayen-Koblenz",
+        "position":{
+            "lon":7.33,
+            "lat":50.33
+        },
+        "Bundesland":"Rheinland-Pfalz",
+        "LK ID":"07137",
+        "BDL ID":7,
+        "Cap":1921
+    },
+    "116":{
+        "PLZ":56566,
+        "LK":"LK Neuwied",
+        "position":{
+            "lon":7.5,
+            "lat":50.5
+        },
+        "Bundesland":"Rheinland-Pfalz",
+        "LK ID":"07138",
+        "BDL ID":7,
+        "Cap":1921
+    },
+    "117":{
+        "PLZ":60437,
+        "LK":"SK Frankfurt am Main",
+        "position":{
+            "lon":8.679722222,
+            "lat":50.113611111
+        },
+        "Bundesland":"Hessen",
+        "LK ID":"06412",
+        "BDL ID":6,
+        "Cap":1921
+    },
+    "118":{
+        "PLZ":65205,
+        "LK":"SK Wiesbaden",
+        "position":{
+            "lon":8.24,
+            "lat":50.0825
+        },
+        "Bundesland":"Hessen",
+        "LK ID":"06414",
+        "BDL ID":6,
+        "Cap":1921
+    },
+    "119":{
+        "PLZ":65479,
+        "LK":"LK Groß-Gerau",
+        "position":{
+            "lon":8.478333333,
+            "lat":49.912638888
+        },
+        "Bundesland":"Hessen",
+        "LK ID":"06433",
+        "BDL ID":6,
+        "Cap":1921
+    },
+    "120":{
+        "PLZ":65555,
+        "LK":"LK Limburg-Weilburg",
+        "position":{
+            "lon":8.059513888,
+            "lat":50.386875
+        },
+        "Bundesland":"Hessen",
+        "LK ID":"06533",
+        "BDL ID":6,
+        "Cap":1921
+    },
+    "121":{
+        "PLZ":66386,
+        "LK":"LK Saarpfalz-Kreis",
+        "position":{
+            "lon":7.25,
+            "lat":49.25
+        },
+        "Bundesland":"Saarland",
+        "LK ID":"10045",
+        "BDL ID":10,
+        "Cap":1921
+    },
+    "122":{
+        "PLZ":67657,
+        "LK":"SK Kaiserslautern",
+        "position":{
+            "lon":7.768888888,
+            "lat":49.444722222
+        },
+        "Bundesland":"Rheinland-Pfalz",
+        "LK ID":"07312",
+        "BDL ID":7,
+        "Cap":1921
+    },
+    "123":{
+        "PLZ":69126,
+        "LK":"SK Heidelberg",
+        "position":{
+            "lon":8.71,
+            "lat":49.412222222
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08221",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "124":{
+        "PLZ":69214,
+        "LK":"LK Rhein-Neckar-Kreis",
+        "position":{
+            "lon":8.733333333,
+            "lat":49.366666666
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08226",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "125":{
+        "PLZ":70193,
+        "LK":"SK Stuttgart",
+        "position":{
+            "lon":9.1775,
+            "lat":48.776111111
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08111",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "126":{
+        "PLZ":70199,
+        "LK":"SK Stuttgart",
+        "position":{
+            "lon":9.1775,
+            "lat":48.776111111
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08111",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "127":{
+        "PLZ":70771,
+        "LK":"LK Esslingen",
+        "position":{
+            "lon":9.32,
+            "lat":48.69
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08116",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "128":{
+        "PLZ":71065,
+        "LK":"LK Böblingen",
+        "position":{
+            "lon":9.01,
+            "lat":48.7
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08115",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "129":{
+        "PLZ":71636,
+        "LK":"LK Ludwigsburg",
+        "position":{
+            "lon":9.2,
+            "lat":48.9
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08118",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "130":{
+        "PLZ":73525,
+        "LK":"LK Schwäbisch Hall",
+        "position":{
+            "lon":9.91,
+            "lat":49.15
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08127",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "131":{
+        "PLZ":74072,
+        "LK":"LK Heilbronn",
+        "position":{
+            "lon":9.25,
+            "lat":49.16
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08125",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "132":{
+        "PLZ":76133,
+        "LK":"SK Karlsruhe",
+        "position":{
+            "lon":8.4,
+            "lat":49.016666666
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08212",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "133":{
+        "PLZ":76199,
+        "LK":"SK Karlsruhe",
+        "position":{
+            "lon":8.4,
+            "lat":49.016666666
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08212",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "134":{
+        "PLZ":76275,
+        "LK":"LK Karlsruhe",
+        "position":{
+            "lon":8.58,
+            "lat":49.08
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08215",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "135":{
+        "PLZ":78224,
+        "LK":"LK Konstanz",
+        "position":{
+            "lon":8.883333333,
+            "lat":47.816666666
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08335",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "136":{
+        "PLZ":78464,
+        "LK":"LK Konstanz",
+        "position":{
+            "lon":8.883333333,
+            "lat":47.816666666
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08335",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "137":{
+        "PLZ":79100,
+        "LK":"SK Freiburg i.Breisgau",
+        "position":{
+            "lon":7.849722222,
+            "lat":47.994722222
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08311",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "138":{
+        "PLZ":79115,
+        "LK":"SK Freiburg i.Breisgau",
+        "position":{
+            "lon":7.849722222,
+            "lat":47.994722222
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08311",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "139":{
+        "PLZ":80335,
+        "LK":"SK München",
+        "position":{
+            "lon":11.5755,
+            "lat":48.137194444
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09162",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "140":{
+        "PLZ":81671,
+        "LK":"SK München",
+        "position":{
+            "lon":11.5755,
+            "lat":48.137194444
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09162",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "141":{
+        "PLZ":81679,
+        "LK":"SK München",
+        "position":{
+            "lon":11.5755,
+            "lat":48.137194444
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09162",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "142":{
+        "PLZ":81737,
+        "LK":"SK München",
+        "position":{
+            "lon":11.5755,
+            "lat":48.137194444
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09162",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "143":{
+        "PLZ":82131,
+        "LK":"LK Starnberg",
+        "position":{
+            "lon":11.28,
+            "lat":48.01
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09188",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "144":{
+        "PLZ":82256,
+        "LK":"LK Fürstenfeldbruck",
+        "position":{
+            "lon":11.17,
+            "lat":48.17
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09179",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "145":{
+        "PLZ":83022,
+        "LK":"SK Rosenheim",
+        "position":{
+            "lon":12.128888888,
+            "lat":47.856111111
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09163",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "146":{
+        "PLZ":83064,
+        "LK":"LK Rosenheim",
+        "position":{
+            "lon":12.17,
+            "lat":47.92
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09187",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "147":{
+        "PLZ":85049,
+        "LK":"SK Ingolstadt",
+        "position":{
+            "lon":11.426111111,
+            "lat":48.763611111
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09161",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "148":{
+        "PLZ":85051,
+        "LK":"SK Ingolstadt",
+        "position":{
+            "lon":11.426111111,
+            "lat":48.763611111
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09161",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "149":{
+        "PLZ":85757,
+        "LK":"LK Dachau",
+        "position":{
+            "lon":11.42,
+            "lat":48.25
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09174",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "150":{
+        "PLZ":86154,
+        "LK":"SK Augsburg",
+        "position":{
+            "lon":10.898333333,
+            "lat":48.371666666
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09761",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "151":{
+        "PLZ":86156,
+        "LK":"SK Augsburg",
+        "position":{
+            "lon":10.898333333,
+            "lat":48.371666666
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09761",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "152":{
+        "PLZ":88212,
+        "LK":"LK Ravensburg",
+        "position":{
+            "lon":9.8,
+            "lat":47.82
+        },
+        "Bundesland":"Baden-Württemberg",
+        "LK ID":"08436",
+        "BDL ID":8,
+        "Cap":1921
+    },
+    "153":{
+        "PLZ":90471,
+        "LK":"LK Nürnberger Land",
+        "position":{
+            "lon":11.366666666,
+            "lat":49.5
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09574",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "154":{
+        "PLZ":92637,
+        "LK":"SK Weiden i.d.OPf.",
+        "position":{
+            "lon":12.166061111,
+            "lat":49.673530555
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09363",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "155":{
+        "PLZ":94034,
+        "LK":"SK Passau",
+        "position":{
+            "lon":13.466666666,
+            "lat":48.566666666
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09262",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "156":{
+        "PLZ":95448,
+        "LK":"LK Bayreuth",
+        "position":{
+            "lon":11.5,
+            "lat":49.92
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09472",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "157":{
+        "PLZ":97422,
+        "LK":"SK Schweinfurt",
+        "position":{
+            "lon":10.233333333,
+            "lat":50.05
+        },
+        "Bundesland":"Bayern",
+        "LK ID":"09662",
+        "BDL ID":9,
+        "Cap":1921
+    },
+    "158":{
+        "PLZ":98527,
+        "LK":"SK Suhl",
+        "position":{
+            "lon":10.693055555,
+            "lat":50.610555555
+        },
+        "Bundesland":"Thüringen",
+        "LK ID":"16054",
+        "BDL ID":16,
+        "Cap":1921
+    },
+    "159":{
+        "PLZ":99084,
+        "LK":"SK Erfurt",
+        "position":{
+            "lon":11.029166666,
+            "lat":50.978055555
+        },
+        "Bundesland":"Thüringen",
+        "LK ID":"16051",
+        "BDL ID":16,
+        "Cap":1921
+    }
+}
