@@ -11,3 +11,4 @@ Data sources and code used in "Logistics for Diagnostic Testing: an AdaptiveDeci
 ## Usage
 
 ## License
+[MIT] 
