@@ -10,13 +10,11 @@ Created on Thu Nov 26 08:02:33 2020
 import os
 import argparse
 import json
-import numpy as np
 import datetime
 import pandas as pd
 import numpy.random as npr
-from pathlib import Path
 
-Bundeslaender = [
+Bundeslaender = [ 
     "Baden-Württemberg",
     "Bayern",
     "Berlin",
@@ -33,7 +31,7 @@ Bundeslaender = [
     "Sachsen-Anhalt",
     "Schleswig-Holstein",
     "Thüringen",
-]
+] #list of states in Germany - in case you want to use a regional filter
 
 
 class CDPInstance:
@@ -46,15 +44,12 @@ class CDPInstance:
 
     def __init__(
         self,
-        name="default", 
-        tau_max=2, 
-        C=150,
-        MC=150,
-        theta=0.001,
-        eta=1,      
-        district_data='district_data',  
-        laboratory_data='laboratory_data',
-        test_per_district_vs_time_file='tests_per_district_vs_time_DF',  # path names to set if data is to be read from file
+        name="default",
+        tau_max=2,  # necessary to see how much after the end of PH capacity needs to be known for assignments in last periods
+        # if no sure - choose highest value under consideration
+        district_data="district_data",
+        laboratory_data="laboratory_data",
+        test_per_district_vs_time_file="tests_per_district_vs_time_DF",  # path names to set if data is to be read from file
         state="nationwide",
         start_date="2020-03-09",
         end_date="2020-12-13",  # data to be specified if only part of the data should be used for an instance
@@ -70,55 +65,49 @@ class CDPInstance:
         self.data = dict()  # set properties
         self.data["properties"] = dict()
         self.data["properties"]["name"] = name
-        self.data["properties"]["state"] = state  
-
-        self.data["tau_max"] = tau_max
-        self.data["C"] = C 
-        self.data["Mc"] = MC 
-        self.data["theta"] = theta
-        self.data["eta"] = eta
-
+        self.data["properties"]["state"] = state
+        self.data["tau_max"]=tau_max
         # Read data from input files
-        with open(
-                "data_raw/" + laboratory_data + ".json", encoding="cp1252"
-            ) as f:  
-                laboratories = json.load(f)
+        with open("data_raw/" + laboratory_data + ".json", encoding="cp1252") as f:
+            laboratories = json.load(f)
 
         with open("data_raw/" + district_data + ".json", encoding="utf-8") as f:
-                districts = json.load(f)
+            districts = json.load(f)
 
         with open("data_raw/" + test_per_district_vs_time_file + ".json") as f:
-                tests = pd.read_json(f)
+            tests = pd.read_json(f)
 
         capacities = pd.read_excel(
-                "data_raw/laboratory_capacity_over_time.xlsx", engine="openpyxl"
-            )
+            "data_raw/laboratory_capacity_over_time.xlsx", engine="openpyxl"
+        )
         capacities.set_index("Datum", inplace=True)
 
         incidences_file = "weekly_incidences_per_district_vs_time_DF"
         with open("data_raw/" + incidences_file + ".json", encoding="utf-8") as f:
-                incidences = pd.read_json(f)
+            incidences = pd.read_json(f)
 
-        if state !="nationwide":  # filter according to states
+        if state != "nationwide":  # filter according to states
             self.data["properties"]["state"] = state
             remove = []
             for (
                 dist,
                 dist_info,
-            ) in districts.items():                     # identify which districts are not in state and remove
+            ) in (
+                districts.items()
+            ):  # identify which districts are not in state and remove
                 if state != dist_info["Bundesland"]:
                     remove.append(dist)
-            for dist in remove:  
+            for dist in remove:
                 districts.pop(dist)
-            tests = tests.drop(
-                remove, axis=1
-            )  
+            tests = tests.drop(remove, axis=1)
             remove.clear()
 
             for (
                 lab,
                 lab_info,
-            ) in laboratories.items():                   # identify which laboratories are not in state and remove
+            ) in (
+                laboratories.items()
+            ):  # identify which laboratories are not in state and remove
                 if state != lab_info["Bundesland"]:
                     remove.append(lab)
             for lab in remove:
@@ -130,7 +119,7 @@ class CDPInstance:
                 for lab in remove:
                     dist_info["c_i"].pop(lab)
 
-        self.data["properties"]["start_date"] = start_date 
+        self.data["properties"]["start_date"] = start_date
         self.data["properties"]["end_date"] = end_date
 
         # remove data outside considered time period
@@ -162,34 +151,34 @@ class CDPInstance:
         self.T = self.data["pandemic_duration"]
         self.data["test_centers"] = districts
         self.data["laboratories"] = laboratories
-        
-        #add info to test centers
+
+        # add info to test centers
         for i in self.data["test_centers"].keys():
             self.data["test_centers"][i]["d_i"] = tests[i].tolist()
             self.data["test_centers"][i]["incidence_i"] = incidences[i].tolist()
 
         self.original = 0
-        #add info to laboratories
+        # add info to laboratories
         for j in self.data["laboratories"].keys():
-            
-            self.data["laboratories"][j]["L"] = 0 # backlog at this laboratory in first period
-            
+
+            self.data["laboratories"][j][
+                "L"
+            ] = 0  # backlog at this laboratory in first period
+
             self.data["laboratories"][j]["Cap_t"] = capacities[
                 "Kapazitaet"
-            ].tolist() # get per period capacities
+            ].tolist()  # get per period capacities
             self.original += sum(self.data["laboratories"][j]["Cap_t"])
             # add capacities for tau_max periods after
             self.data["laboratories"][j]["Cap_bar"] = [
                 self.data["laboratories"][j]["Cap_t"][tau] for tau in range(tau_max)
             ]
         self.create_default_assignment()  # default_ij --> closest lab
-        self.resize_capacity() #scale capacity according to demands
-
-
+        self.resize_capacity()  # scale capacity according to demands
 
     def resize_capacity(self):
         """
-            Scale capacity to be proportional to the assigned demands
+        Scale capacity to be proportional to the assigned demands
         """
         s = 0
         for lab, lab_info in self.data["laboratories"].items():
@@ -220,7 +209,7 @@ class CDPInstance:
                 self.data["laboratories"][lab]["Cap_t"][tau]
                 for tau in range(self.data["tau_max"])
             ]
-        
+
     def __repr__(self):
         return json.dumps(self.data, indent=4, separators=(",", ":"))
 
@@ -266,6 +255,7 @@ class CDPInstance:
                 listOfKeys.append(item[0])
         return listOfKeys
 
+
 if __name__ == "__main__":
     data_path = "data/"
     parser = argparse.ArgumentParser(description="Generate CDP instances")
@@ -275,7 +265,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     CDPInstance.set_verbose(True)  # for debugging
-    CDPInstance.set_data_path(data_path)  # for debugging
+    CDPInstance.set_data_path(data_path)
     inst = CDPInstance(
         name="Phase1Mär",
         start_date="2020-03-09",
@@ -290,4 +280,3 @@ if __name__ == "__main__":
         tau_max=2,
     )
     inst.write_to_disk()
-    
