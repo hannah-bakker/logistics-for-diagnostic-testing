@@ -29,5 +29,5 @@ Generate a named problem instance with instance_generator.py by specifying start
 To find a solution use main.py and specify the instance you wish to solve via its name. 
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Distributed under the MIT License. See LICENSE for more information.
 
